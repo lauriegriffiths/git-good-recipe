@@ -19,6 +19,14 @@
 * Cover chicken with flour.
 * Put chicken in oil.
 
+## Curry and rice
+*Cut vegetables and meat.
+*Put them in a pan.
+*Add water.
+*Add curry blocks.
+*Mix them for a few minutes.
+*Put curry on the rice.
+
 ## Arrange
 * Put the miso soup in a bowl.
 * Put the rice in another bowl.
