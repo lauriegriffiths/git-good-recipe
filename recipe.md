@@ -12,10 +12,10 @@
 * Cool down water.
 * Add miso.
 
-# Karaage
+# Fried Chicken
 * Heat up some oil.
 * Cut up chicken.
-* Mix chicken with shoyu and garlic.
+* Mix chicken with soy sauce and garlic.
 * Cover chicken with flour.
 * Put chicken in oil.
 
